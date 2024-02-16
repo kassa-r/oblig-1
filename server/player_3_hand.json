@@ -1,0 +1,54 @@
+[
+  {
+    "suit": "diamonds",
+    "rank": "J"
+  },
+  {
+    "suit": "hearts",
+    "rank": "4"
+  },
+  {
+    "suit": "clubs",
+    "rank": "10"
+  },
+  {
+    "suit": "clubs",
+    "rank": "6"
+  },
+  {
+    "suit": "hearts",
+    "rank": "A"
+  },
+  {
+    "suit": "hearts",
+    "rank": "10"
+  },
+  {
+    "suit": "clubs",
+    "rank": "A"
+  },
+  {
+    "suit": "spades",
+    "rank": "9"
+  },
+  {
+    "suit": "hearts",
+    "rank": "9"
+  },
+  {
+    "suit": "diamonds",
+    "rank": "4"
+  },
+  {
+    "suit": "spades",
+    "rank": "8"
+  },
+  {
+    "suit": "diamonds",
+    "rank": "K"
+  },
+  {
+    "suit": "spades",
+    "rank": "Q"
+  }
+]
